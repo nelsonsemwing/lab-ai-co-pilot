@@ -143,12 +143,13 @@ Which AI would you trust in a real project? Why?
 
 ##  Reflection Prompts
 
-Write in your journal or digital notebook:
+## 🧠 Reflection Prompts
 
-- Which AI helped *you* learn better?
-- Was there a big difference in explanation quality?
-- Which one matched your communication style?
-- How might you use different AIs for different types of work?
+- ChatGPT helped me learn better because it was clear and easy to understand.
+- Claude gave more detailed answers but sometimes too long.
+- The main difference was explanation style, not correctness.
+- I prefer ChatGPT for learning and coding practice.
+- I would use different AIs depending on the task.
 
 <br />
 
