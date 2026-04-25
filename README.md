@@ -143,31 +143,35 @@ Which AI would you trust in a real project? Why?
 
 ##  Reflection Prompts
 
-## 🧠 Reflection Prompts
-
 - ChatGPT helped me learn better because it was clear and easy to understand.
 - Claude gave more detailed answers but sometimes too long.
 - The main difference was explanation style, not correctness.
 - I prefer ChatGPT for learning and coding practice.
 - I would use different AIs depending on the task.
 
-<br />
+---
 
-## :microscope: Bonus Round
+##  Bonus Round
 
-Ask all three:
+I asked all three AI tools:
 
 > “What are 3 common mistakes junior developers make in DOM manipulation, and how can they be avoided?”
+
+- ChatGPT: Clear, simple, and practical explanation.
+- Claude: Very detailed but slightly long and harder to scan quickly.
+- My Pick: ChatGPT because it was the easiest to understand and apply.
+
+ Final conclusion: ChatGPT gave the clearest and most useful guidance overall.
 
 Who gave the clearest, most useful guidance?
 
 <br />
 
-## :white_check_mark: Submission Checklist
+## ✔ Submission Checklist
 
-- [ ] Filled-out evaluation table  
-- [ ] AI_Assistant_Report.md with a clear winner  
-- [ ] Reflections written  
+- [x] Filled-out evaluation table  
+- [x] AI_Assistant_Report.md with a clear winner  
+- [x] Reflections written  
 
 <br />
 
